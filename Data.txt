@@ -1,0 +1,11 @@
+sentences = [
+    ['I', 'am', 'learning', 'TensorFlow'],
+    ['You', 'are', 'writing', 'a', 'tutorial'],
+    ['They', 'are', 'reading', 'a', 'book'],
+    ['She', 'loves', 'machine', 'learning'],
+    ['The', 'cat', 'sits', 'on', 'the', 'mat'],
+    ['Birds', 'fly', 'in', 'the', 'sky'],
+    ['We', 'are', 'building', 'a', 'model'],
+    ['He', 'enjoys', 'playing', 'chess'],
+    ['This', 'is', 'an', 'exciting', 'project'],
+    ['Data', 'science', 'is', 'fun']
